@@ -1,3 +1,3 @@
-package br.com.erudio.model;
+package br.com.brito.model;
 
 public record Greeting(long id, String content) {}
